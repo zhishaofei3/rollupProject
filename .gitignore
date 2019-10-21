@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+output/
+dist/
+*.swo
+.idea
+*.swp
+npm-debug.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+vf2e.config.js
